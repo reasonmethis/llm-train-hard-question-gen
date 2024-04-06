@@ -2,6 +2,13 @@
 
 The LLM Bootcamp is a tool that, given a text, generates questions about it that are hard for an LLM to answer.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 Follow these steps to set up the LLM Bootcamp:
